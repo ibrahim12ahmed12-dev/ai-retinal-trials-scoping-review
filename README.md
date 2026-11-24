@@ -1,4 +1,4 @@
-# 03_figures.py
+# 01_figures.py
 
 This script draws the figures for "Uses and reporting quality of artificial intelligence in retinal disease clinical trials: a scoping review". Each figure is saved as a 300 dpi PNG and as a PDF.
 
